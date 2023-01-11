@@ -1,0 +1,11 @@
+Welcome to Yousifs 4001 Assignment 3
+
+Step 1: give permission to script file
+
+Step 2: type in ./consumer and ./producer in respective terminals
+
+(note: it odes not matter which one you enter first, consumer will wait for producer and producer will write until consumer reads)
+
+step 3: enjoy your new TEXT_OUT.txt file 
+
+(note: I made a test copy of what the producer reads and writes, you can change the text of the TEST_IN to whatever you like!)

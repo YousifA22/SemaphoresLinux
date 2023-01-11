@@ -1,0 +1,7 @@
+gcc consumer.c -o consumer
+gcc producer.c -o producer
+
+xterm -T consumer &
+xterm -T producer &
+
+
